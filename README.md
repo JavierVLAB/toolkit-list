@@ -17,7 +17,7 @@ Micro:bit https://microbit.org/ &nbsp; Placa para enseñar programación<br>
 MakeyMakey https://makeymakey.com/ &nbsp; Producto basado en Arduino <br>
 TouchBoard  https://www.bareconductive.com/shop/touch-board/ &nbsp; Producto basado en Arduino<br>
 
-# Fabricación Digital
+## Fabricación Digital
 
 OpenDesk https://www.opendesk.cc/ &nbsp; Mobiliario distribuido fabricado en Fablab locales<br>
 Adafruit https://www.adafruit.com/ &nbsp; Producto basado en Arduino<br>
