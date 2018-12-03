@@ -20,7 +20,7 @@ TouchBoard  https://www.bareconductive.com/shop/touch-board/ &nbsp; Producto bas
 ## Fabricación Digital
 
 OpenDesk https://www.opendesk.cc/ &nbsp; Mobiliario distribuido fabricado en Fablab locales<br>
-Sahpeways https://www.opendesk.cc/ &nbsp; Servicio de impresión 3D<br>
+Shapeways https://www.opendesk.cc/ &nbsp; Servicio de impresión 3D<br>
 Adafruit https://www.adafruit.com/ &nbsp; Producto basado en Arduino<br>
 Ultimaker https://ultimaker.com/ &nbsp; Impresoras 3D Open Hardware<br>
 Nerveous System https://n-e-r-v-o-u-s.com/ &nbsp; Artistas digitales con produtos y servicios de fabricación<br>
